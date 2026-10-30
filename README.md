@@ -1,18 +1,16 @@
-# Tiger Security Network Co., Ltd. | Cybersecurity Internship
+# AI-Assisted Cybersecurity Engineering Internship
 
-Cybersecurity Intern and Founder/CEO Shadow, July 2026
+Tiger Security Network Co., Ltd. | Cybersecurity Intern and Founder/CEO Shadow | July 2026 | Hangzhou, China
 
-## My Work
+Worked with the founder and CEO on an AI-assisted cybersecurity analysis platform, collecting test datasets and production logs to support the team's analysis and testing. This work contributed data for investigating attack paths and understanding the limits of incomplete evidence.
 
-Worked directly under the founder and CEO on an AI-assisted cybersecurity analysis platform:
+## My contribution
 
-- Refined the user interface
-- Developed security-analysis modules
-- Tested attack-path reconstruction using simulated attack datasets
-- Evaluated system reliability under incomplete information
+- Collected test datasets for the team's analysis and testing.
+- Collected production logs to support investigation and evaluation work.
 
-## Important Note
+[Read the contribution overview](contribution-overview.md)
 
-All code here is simulation demo code. Internal confidential production data is not included.
+## Public scope
 
-⚠️ Disclaimer: This repository is for educational learning purposes only.
+This repository contains a written contribution overview. Production logs, customer information, company source code, internal architecture, and internal test results are not published here.
